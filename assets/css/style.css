@@ -1,0 +1,60 @@
+body {
+    background-image: url("leaves.png");
+}
+
+.header {
+    box-sizing: border-box;
+    width: 35%;
+    padding-right: 15px;
+    margin-right: auto;
+    display: block;
+    background-color: rgb(226, 106, 106);
+}
+
+.instructions {
+    box-sizing: border-box;
+    width: 55%;
+    padding-right: 15px;
+    margin-right: auto;
+    display: block;
+    background-color: rgb(90, 226, 197);
+}
+
+/*<--.btn {
+    width: 15%;
+    height: 120px; 
+}*/
+
+#random-score {
+    box-sizing: border-box;
+    margin: red; 
+    padding: 32.5px; 
+    display: block;
+    background-color: aqua;
+
+}
+
+.score-tracker {
+    box-sizing: border-box;
+    margin: red; 
+    padding: 32.5px; 
+    display: block;
+    background-color:teal;
+}
+
+.game {
+    box-sizing: border-box;
+    display: block;
+    background-color:greenyellow;
+
+}
+
+.crystal-image {
+    width: 300px;
+    height: 300px;
+  }
+
+.score-header{
+    display: block;
+    background-color:rgb(16, 101, 134);
+}
